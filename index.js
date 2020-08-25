@@ -1,0 +1,1 @@
+var texto = "incluindo linha index.js";
